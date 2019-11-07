@@ -23,6 +23,8 @@ def ReadData():
     TestImages, TestLabels = mnist.load_mnist(FolderPath, "t10k")
     TrainImages.shape
     TrainLabels.shape
+    TestImages.shape
+    TestLabels.shape
 
 
 def ModelTraining():
@@ -59,6 +61,7 @@ def ModelAssessment():
     Output.write("Micro Recall rate = " + str(ModelMicroRecallRate) + "\n")
     Output.write("Macro Recall rate = " + str(ModelMacroRecallRate) + "\n")
     Output.write("Weighted Recall rate = " + str(ModelWeightedRecallRate) + "\n")
+    Output.close()
     print("Confusion matrix = \n", ModelConfusionMatrix)
     print()
     print("Now printing precision rate and recall rate...")
