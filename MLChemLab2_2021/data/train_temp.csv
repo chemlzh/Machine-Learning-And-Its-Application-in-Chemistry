@@ -1,0 +1,16 @@
+id,Gender,Age,Driving_License,Region_Code,Previously_Insured,Vehicle_Age,Vehicle_Damage,Annual_Premium,Policy_Sales_Channel,Vintage,Response
+1,Male,44,1,28,0,> 2 Years,Yes,40454,26,217,1
+2,Male,76,1,3,0,1-2 Year,No,33536,26,183,0
+3,Male,47,1,28,0,> 2 Years,Yes,38294,26,27,1
+4,Male,21,1,11,1,< 1 Year,No,28619,152,203,0
+5,Female,29,1,41,1,< 1 Year,No,27496,152,39,0
+6,Female,24,1,33,0,< 1 Year,Yes,2630,160,176,0
+7,Male,23,1,11,0,< 1 Year,Yes,23367,152,249,0
+9,Female,24,1,3,1,< 1 Year,No,27619,152,28,0
+10,Female,32,1,6,1,< 1 Year,No,28771,152,80,0
+12,Female,24,1,50,1,< 1 Year,No,48699,152,289,0
+14,Male,76,1,28,0,1-2 Year,Yes,36770,13,15,0
+15,Male,71,1,28,1,1-2 Year,No,46818,30,58,0
+16,Male,37,1,6,0,1-2 Year,Yes,2630,156,147,1
+19,Male,42,1,28,0,1-2 Year,Yes,33667,124,158,0
+21,Male,65,1,28,0,1-2 Year,Yes,41184,124,116,0

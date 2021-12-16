@@ -1,0 +1,9 @@
+This model is verified by 5-fold cross validation
+Optimized alpha for special model: 1e-23
+Training RMSE = 1.489521923099183
+Testing RMSE = 1.0523161676975497
+C[0] = 0.6939298277904089
+C[1]_poly_cos = -1.237111378224104
+C[2]_poly_cos = -0.23713865075105675
+C[3]_poly_cos = -5.829246317576922
+C[4]_poly_cos = 8.880981654038353

@@ -1,0 +1,57 @@
+K = 1
+Sum of squared errors = 34971656.0
+####################
+K = 2
+Sum of squared errors = 21440192.0
+Silhouette score using euclidean distance = 0.3476960062980652
+Silhouette score using cosine distance = 0.5767205357551575
+####################
+K = 3
+Sum of squared errors = 13546221.0
+Silhouette score using euclidean distance = 0.37761756777763367
+Silhouette score using cosine distance = 0.6456606388092041
+####################
+K = 4
+Sum of squared errors = 10050614.0
+Silhouette score using euclidean distance = 0.3687427341938019
+Silhouette score using cosine distance = 0.6011976599693298
+####################
+K = 5
+Sum of squared errors = 8100752.0
+Silhouette score using euclidean distance = 0.36206430196762085
+Silhouette score using cosine distance = 0.4547882378101349
+####################
+K = 6
+Sum of squared errors = 6669578.0
+Silhouette score using euclidean distance = 0.372184693813324
+Silhouette score using cosine distance = 0.3865906000137329
+####################
+K = 7
+Sum of squared errors = 5573386.5
+Silhouette score using euclidean distance = 0.3710809350013733
+Silhouette score using cosine distance = 0.3911839723587036
+####################
+K = 8
+Sum of squared errors = 4967724.5
+Silhouette score using euclidean distance = 0.3575459420681
+Silhouette score using cosine distance = 0.34875819087028503
+####################
+K = 9
+Sum of squared errors = 4365523.0
+Silhouette score using euclidean distance = 0.3642440140247345
+Silhouette score using cosine distance = 0.2739413380622864
+####################
+K = 10
+Sum of squared errors = 3908981.25
+Silhouette score using euclidean distance = 0.3603321313858032
+Silhouette score using cosine distance = 0.2562256455421448
+####################
+Cluster center using euclidean distance: 
+Cluster1: C#CC[N+]1=CN(c2ccc(C)cc2)Cc2cc(C)ccc21
+Cluster2: CC(C)C(=O)Nc1cccc(C(=O)Nc2cc([N+](=O)[O-])ccc2F)c1
+Cluster3: c1ccc(-c2csc(NCc3ccco3)n2)cc1
+####################
+Cluster center using cosine distance: 
+Cluster1: CCOC1(O)C(=O)c2ccccc2OC1(OCC)c1ccccc1
+Cluster2: Cc1ccccc1CSCC(=O)NN=Cc1ccc(C#N)cc1
+Cluster3: Cc1nc2sc3c(c2c(=O)n1CC(=O)NCc1ccc(Cl)cc1)CCC(C)C3

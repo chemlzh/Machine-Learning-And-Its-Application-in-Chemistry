@@ -1,0 +1,7 @@
+The hyperparameter C equals to 1.0000e-05
+####################
+accuracy = 0.6381
+precision = 0.2525
+recall = 0.9775
+F1 = 0.4013
+AUC = 0.7837

@@ -1,0 +1,47 @@
+This model is verified by 5-foldcross validation
+####################
+Auto optimized alpha for power_poly = 0: 1e-23
+Training RMSE = 6.565545791424627
+Testing RMSE = 6.665579861647996
+C[0] = 4.224637820512821
+####################
+Auto optimized alpha for power_poly = 1: 100.0
+Training RMSE = 5.53532194708878
+Testing RMSE = 5.672264996392638
+C[0] = 3.9739765436712684
+C[1] = 0.9619355035554827
+####################
+Auto optimized alpha for power_poly = 2: 100.0
+Training RMSE = 5.517734343166465
+Testing RMSE = 5.5819374867641365
+C[0] = 5.159342319051497
+C[1] = 0.9795025181298965
+C[2] = -0.09384323598338293
+####################
+Auto optimized alpha for power_poly = 3: 100.0
+Training RMSE = 5.553022354555729
+Testing RMSE = 5.569975333677024
+C[0] = 5.156806916260423
+C[1] = 1.0954158628383301
+C[2] = -0.09351446260492892
+C[3] = -0.00556112744777165
+####################
+Auto optimized alpha for power_poly = 4: 100.0
+Training RMSE = 5.434716518073119
+Testing RMSE = 4.639142692392805
+C[0] = 1.634511564261957
+C[1] = 1.0449014023382384
+C[2] = 0.8300486184103594
+C[3] = -0.004838516725889623
+C[4] = -0.030160839314376537
+####################
+These are parameters of the best poly model: 
+power_poly = 4
+Optimized alpha = 100.0
+Traning RMSE = 5.434716518073119
+Testing RMSE = 4.639142692392805
+C[0] = 1.634511564261957
+C[1] = 1.0449014023382384
+C[2] = 0.8300486184103594
+C[3] = -0.004838516725889623
+C[4] = -0.030160839314376537

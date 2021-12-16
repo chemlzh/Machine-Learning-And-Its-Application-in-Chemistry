@@ -1,0 +1,47 @@
+This model is verified by 5-foldcross validation
+####################
+Auto optimized alpha for power_cosine = 0: 1e-23
+Training RMSE = 6.565545791424627
+Testing RMSE = 6.665579861647996
+C[0] = 4.224637820512821
+####################
+Auto optimized alpha for power_cosine = 1: 22.513097050152655
+Training RMSE = 4.886572170551288
+Testing RMSE = 5.01349781343868
+C[0] = 3.7479561699256267
+C[1] = -5.680076080793586
+####################
+Auto optimized alpha for power_cosine = 2: 1.3252939982609488
+Training RMSE = 3.8277523040967427
+Testing RMSE = 3.856293671870671
+C[0] = -0.19429927158243565
+C[1] = -5.684076914282946
+C[2] = 8.556546530874455
+####################
+Auto optimized alpha for power_cosine = 3: 1.7824817931051832e-13
+Training RMSE = 3.5572985076188086
+Testing RMSE = 3.7091787561526806
+C[0] = -0.21544005965680935
+C[1] = -1.0838115643137252
+C[2] = 8.296123605607258
+C[3] = -6.3113724698851055
+####################
+Auto optimized alpha for power_cosine = 4: 1e-23
+Training RMSE = 3.728975094068169
+Testing RMSE = 3.6191187594702394
+C[0] = 0.6939298277904089
+C[1] = -1.237111378224104
+C[2] = -0.23713865075105675
+C[3] = -5.829246317576922
+C[4] = 8.880981654038353
+####################
+These are parameters of the best poly_cos model: 
+power_cosine = 4
+Optimized alpha = 1e-23
+Traning RMSE = 3.728975094068169
+Testing RMSE = 3.6191187594702394
+C[0] = 0.6939298277904089
+C[1] = -1.237111378224104
+C[2] = -0.23713865075105675
+C[3] = -5.829246317576922
+C[4] = 8.880981654038353

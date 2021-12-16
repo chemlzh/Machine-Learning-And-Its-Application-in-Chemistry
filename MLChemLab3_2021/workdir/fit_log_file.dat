@@ -1,0 +1,33 @@
+Epoch 0, Batch 0 loss: 2.275176
+   Accuracy after epoch 0 batch 0: 0.262300
+Epoch 0, Batch 200 loss: 0.041173
+   Accuracy after epoch 0 batch 200: 0.974100
+Epoch 0, Batch 400 loss: 0.138171
+   Accuracy after epoch 0 batch 400: 0.978400
+Epoch 0, Batch 600 loss: 0.020151
+   Accuracy after epoch 0 batch 600: 0.978200
+
+##### Epoch 0 average loss: 0.1091340260592703 #####
+
+Epoch 1, Batch 0 loss: 0.022409
+   Accuracy after epoch 1 batch 0: 0.982300
+Epoch 1, Batch 200 loss: 0.017596
+   Accuracy after epoch 1 batch 200: 0.985200
+Epoch 1, Batch 400 loss: 0.060112
+   Accuracy after epoch 1 batch 400: 0.983000
+Epoch 1, Batch 600 loss: 0.101544
+   Accuracy after epoch 1 batch 600: 0.985400
+
+##### Epoch 1 average loss: 0.03928736885215088 #####
+
+Epoch 2, Batch 0 loss: 0.032144
+   Accuracy after epoch 2 batch 0: 0.986200
+Epoch 2, Batch 200 loss: 0.014656
+   Accuracy after epoch 2 batch 200: 0.988500
+Epoch 2, Batch 400 loss: 0.032876
+   Accuracy after epoch 2 batch 400: 0.985100
+Epoch 2, Batch 600 loss: 0.022661
+   Accuracy after epoch 2 batch 600: 0.990500
+
+##### Epoch 2 average loss: 0.028377596710869094 #####
+

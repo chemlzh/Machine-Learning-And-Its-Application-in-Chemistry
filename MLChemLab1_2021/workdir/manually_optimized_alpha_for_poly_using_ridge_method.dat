@@ -1,0 +1,44 @@
+Manually optimized alpha for power_poly = 0: 1e-23
+Training RMSE = 6.396258950007853
+Testing RMSE = 6.841034930070482
+C[0] = 2.7433333333333336
+####################
+Manually optimized alpha for power_poly = 1: 1e-23
+Training RMSE = 5.495498715209751
+Testing RMSE = 5.711894066249018
+C[0] = 3.3203547730248832
+C[1] = 0.9749728634607996
+####################
+Manually optimized alpha for power_poly = 2: 1e-23
+Training RMSE = 5.446488092540297
+Testing RMSE = 5.667624088511761
+C[0] = 4.128696421040097
+C[1] = 0.8755172113924844
+C[2] = -0.07463743088828116
+####################
+Manually optimized alpha for power_poly = 3: 1e-23
+Training RMSE = 5.334358674298418
+Testing RMSE = 5.945597283315802
+C[0] = 3.754888729511071
+C[1] = 0.07743177739453622
+C[2] = -0.0035783149028591494
+C[3] = 0.042214084663090554
+####################
+Manually optimized alpha for power_poly = 4: 1.3797931399683057
+Training RMSE = 4.961729666753746
+Testing RMSE = 5.848501637987784
+C[0] = 2.037014544375387
+C[1] = 1.513264728304848
+C[2] = 0.651657716371878
+C[3] = -0.05529893402328681
+C[4] = -0.02857538098097798
+####################
+These are parameters of the best poly model: 
+power_poly = 2
+power_cosine = 0
+Optimized alpha = 1e-23
+Traning RMSE = 5.446488092540297
+Testing RMSE = 5.667624088511761
+C[0] = 4.128696421040097
+C[1]_poly = 0.8755172113924844
+C[2]_poly = -0.07463743088828116

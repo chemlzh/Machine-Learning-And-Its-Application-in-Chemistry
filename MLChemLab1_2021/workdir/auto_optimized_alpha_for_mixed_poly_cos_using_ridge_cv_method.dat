@@ -1,0 +1,176 @@
+This model is verified by 5-foldcross validation
+####################
+Auto optimized alpha for power_poly = 1 and power_cosine = 1: 1e-23
+Training RMSE = 4.25252991689381
+Testing RMSE = 3.48813680461561
+C[0] = 3.413857024458631
+C[1]_poly = 0.9884233980764637
+C[1]_poly_cos = -6.592064852572526
+####################
+Auto optimized alpha for power_poly = 1 and power_cosine = 2: 1e-23
+Training RMSE = 1.9483811319173996
+Testing RMSE = 1.4054107981999653
+C[0] = -0.6813482058505365
+C[1]_poly = 1.007925641803578
+C[1]_poly_cos = -5.698058565250532
+C[2]_poly_cos = 9.041102166823963
+####################
+Auto optimized alpha for power_poly = 1 and power_cosine = 3: 1e-23
+Training RMSE = 1.4802026781437265
+Testing RMSE = 1.1352428513825004
+C[0] = -0.5926002518973634
+C[1]_poly = 0.9933127871482242
+C[1]_poly_cos = -2.004309786681549
+C[2]_poly_cos = 8.616033614504497
+C[3]_poly_cos = -5.038667845521524
+####################
+Auto optimized alpha for power_poly = 1 and power_cosine = 4: 0.08957673310441329
+Training RMSE = 1.4448122661633183
+Testing RMSE = 0.9728805159097718
+C[0] = 0.08269804859385399
+C[1]_poly = 0.9847981455540152
+C[1]_poly_cos = -2.1299960162237226
+C[2]_poly_cos = 2.321310929914377
+C[3]_poly_cos = -4.664944760756792
+C[4]_poly_cos = 6.5459425525166965
+####################
+Auto optimized alpha for power_poly = 2 and power_cosine = 1: 12.020097510386435
+Training RMSE = 4.074758599160189
+Testing RMSE = 3.496599631017131
+C[0] = 3.9478327199692274
+C[1]_poly = 0.9925488188075708
+C[2]_poly = -0.03824937787044144
+C[1]_poly_cos = -5.995746643140837
+####################
+Auto optimized alpha for power_poly = 2 and power_cosine = 2: 1e-23
+Training RMSE = 1.9485608422488785
+Testing RMSE = 1.4046483688327804
+C[0] = -0.619954788952259
+C[1]_poly = 1.0087348983062032
+C[2]_poly = -0.004366240422645818
+C[1]_poly_cos = -5.6892970977981765
+C[2]_poly_cos = 9.029153650160156
+####################
+Auto optimized alpha for power_poly = 2 and power_cosine = 3: 0.051247297389344866
+Training RMSE = 1.4783802274596058
+Testing RMSE = 1.1290319279983463
+C[0] = -0.42635986970475415
+C[1]_poly = 0.9952696527943867
+C[2]_poly = -0.011415387849607285
+C[1]_poly_cos = -1.9508629599124145
+C[2]_poly_cos = 8.570366814845206
+C[3]_poly_cos = -5.0808306634088485
+####################
+Auto optimized alpha for power_poly = 2 and power_cosine = 4: 0.35257760672122046
+Training RMSE = 1.444368913629987
+Testing RMSE = 0.9726989572112256
+C[0] = 0.1222829136868473
+C[1]_poly = 0.9864036868029186
+C[2]_poly = -0.005385985612346105
+C[1]_poly_cos = -2.150516030404413
+C[2]_poly_cos = 2.699473890001633
+C[3]_poly_cos = -4.632055002536761
+C[4]_poly_cos = 6.1239186552727105
+####################
+Auto optimized alpha for power_poly = 3 and power_cosine = 1: 1e-23
+Training RMSE = 4.118118793984989
+Testing RMSE = 3.464805807555179
+C[0] = 3.841286649249589
+C[1]_poly = 1.1823633670117495
+C[2]_poly = -0.03314447164504881
+C[3]_poly = -0.008772943983782583
+C[1]_poly_cos = -6.503119920709115
+####################
+Auto optimized alpha for power_poly = 3 and power_cosine = 2: 3.555126720364099e-15
+Training RMSE = 1.9647701022693531
+Testing RMSE = 1.3974048474991303
+C[0] = -0.6119995058056062
+C[1]_poly = 1.096042841997988
+C[2]_poly = -0.004283532658288195
+C[3]_poly = -0.004085342172346363
+C[1]_poly_cos = -5.684931096114454
+C[2]_poly_cos = 9.01179012504949
+####################
+Auto optimized alpha for power_poly = 3 and power_cosine = 3: 3.555126720364099e-15
+Training RMSE = 1.480435462847791
+Testing RMSE = 1.1253820499466571
+C[0] = -0.42695575954601317
+C[1]_poly = 1.0538531321199833
+C[2]_poly = -0.011304908898477179
+C[3]_poly = -0.002738723573717318
+C[1]_poly_cos = -1.9546858537285605
+C[2]_poly_cos = 8.570554632099352
+C[3]_poly_cos = -5.071271271608058
+####################
+Auto optimized alpha for power_poly = 3 and power_cosine = 4: 1.1711347313907764e-12
+Training RMSE = 1.4424980255082411
+Testing RMSE = 0.9715503867098616
+C[0] = 0.15970073109741367
+C[1]_poly = 0.9862527066727959
+C[2]_poly = -0.0049198377293849386
+C[3]_poly = -3.6624206141483766e-05
+C[1]_poly_cos = -2.0824603312139747
+C[2]_poly_cos = 2.2231170317431204
+C[3]_poly_cos = -4.714750115842962
+C[4]_poly_cos = 6.634128874991776
+####################
+Auto optimized alpha for power_poly = 4 and power_cosine = 1: 1.1379039645988796e-12
+Training RMSE = 3.4964754235761695
+Testing RMSE = 3.2346017093146053
+C[0] = 6.186919150910724
+C[1]_poly = 1.1844477083754466
+C[2]_poly = -0.782330443825466
+C[3]_poly = -0.007642375195805701
+C[4]_poly = 0.025367154782379456
+C[1]_poly_cos = -9.691683627983497
+####################
+Auto optimized alpha for power_poly = 4 and power_cosine = 2: 0.4288083428183803
+Training RMSE = 1.9986613065114023
+Testing RMSE = 1.3950006357337807
+C[0] = -0.7100685832865743
+C[1]_poly = 1.0956038603274443
+C[2]_poly = 0.03113992103754851
+C[3]_poly = -0.004129122529285349
+C[4]_poly = -0.0012070165870457117
+C[1]_poly_cos = -5.518015065812036
+C[2]_poly_cos = 8.99140601265429
+####################
+Auto optimized alpha for power_poly = 4 and power_cosine = 3: 0.2112187524919263
+Training RMSE = 1.5093662222882915
+Testing RMSE = 1.1231628557051727
+C[0] = -0.5111112812372545
+C[1]_poly = 1.0539789616227586
+C[2]_poly = 0.014063756372516563
+C[3]_poly = -0.002779344865440182
+C[4]_poly = -0.0008558992386656474
+C[1]_poly_cos = -1.8955224130447301
+C[2]_poly_cos = 8.582815700941289
+C[3]_poly_cos = -5.000786760455143
+####################
+Auto optimized alpha for power_poly = 4 and power_cosine = 4: 0.5718415757714971
+Training RMSE = 1.4647774792356072
+Testing RMSE = 0.9727310822463577
+C[0] = 0.042373480112583906
+C[1]_poly = 0.99455257973639
+C[2]_poly = 0.010553792814682583
+C[3]_poly = -0.0003838881795745149
+C[4]_poly = -0.0005433264639989339
+C[1]_poly_cos = -2.1242341737465567
+C[2]_poly_cos = 2.9450853207774657
+C[3]_poly_cos = -4.574733905671099
+C[4]_poly_cos = 5.888170676753529
+####################
+These are parameters of the best mixed_poly_cos model: 
+power_poly = 3
+power_cosine = 4
+Optimized alpha = 1.1711347313907764e-12
+Traning RMSE = 1.4424980255082411
+Testing RMSE = 0.9715503867098616
+C[0] = 0.15970073109741367
+C[1]_poly = 0.9862527066727959
+C[2]_poly = -0.0049198377293849386
+C[3]_poly = -3.6624206141483766e-05
+C[1]_poly_cos = -2.0824603312139747
+C[2]_poly_cos = 2.2231170317431204
+C[3]_poly_cos = -4.714750115842962
+C[4]_poly_cos = 6.634128874991776
